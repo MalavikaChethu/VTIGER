@@ -7,6 +7,7 @@ public class SampleTest {
 	public void print()
 	{
 		System.out.println("Welcome.....");
+		System.out.println("To office....");
 	}
 
 }
